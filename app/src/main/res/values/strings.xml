@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">calendarApp</string>
+    <string name="back"><![CDATA[<-]]></string>
+    <string name="forward"><![CDATA[->]]></string>
+    <string name="add_event">+ Add Event</string>
+    <string name="note_title">Note_title</string>
+    <string name="type_description_here">Type description here</string>
+    <string name="miscellaneous">miscellaneous</string>
+    <string name="pick_color">pick_color</string>
+    <string name="add_image">Add Image</string>
+</resources>
